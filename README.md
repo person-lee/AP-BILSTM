@@ -1,2 +1,2 @@
 # AP-BILSTM
-acc:0.69
+acc:0.67
